@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\boris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\boris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "ApiAgentLibStandard": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

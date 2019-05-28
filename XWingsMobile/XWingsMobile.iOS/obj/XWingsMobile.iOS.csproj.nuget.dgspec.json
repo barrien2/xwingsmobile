@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile.iOS\\XWingsMobile.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\boris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\boris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "ApiAgentLibStandard": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile.iOS\\XWingsMobile.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile.iOS\\XWingsMobile.iOS.csproj",
+        "projectName": "XWingsMobile.iOS",
+        "projectPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile.iOS\\XWingsMobile.iOS.csproj",
+        "packagesPath": "C:\\Users\\boris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\boris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile\\XWingsMobile.csproj": {
+                "projectPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile\\XWingsMobile.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.264807, )"
+            },
+            "ZXing.Net.Mobile": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile\\XWingsMobile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile\\XWingsMobile.csproj",
+        "projectName": "XWingsMobile",
+        "projectPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile\\XWingsMobile.csproj",
+        "packagesPath": "C:\\Users\\boris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\XWingsMobile\\XWingsMobile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\boris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\boris\\source\\repos\\XWingsMobile\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "ApiAgentLibStandard": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.264807, )"
+            },
+            "ZXing.Net.Mobile": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

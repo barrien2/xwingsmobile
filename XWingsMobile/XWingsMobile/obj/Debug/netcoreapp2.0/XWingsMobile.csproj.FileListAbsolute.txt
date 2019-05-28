@@ -1,0 +1,9 @@
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\XWingsMobile.csprojAssemblyReference.cache
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\App.xaml.g.cs
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\Views\Escaner.xaml.g.cs
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\Views\Inici.xaml.g.cs
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\Views\MainMenu.xaml.g.cs
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\Views\PesaDelDia.xaml.g.cs
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\XWingsMobile.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\XWingsMobile.AssemblyInfoInputs.cache
+C:\Users\boris\source\repos\XWingsMobile\XWingsMobile\XWingsMobile\obj\Debug\netcoreapp2.0\XWingsMobile.AssemblyInfo.cs
